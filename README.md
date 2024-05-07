@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Erick Luna 👋</a>!</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 
-<img src="https://raw.githubusercontent.com/elunac19/elunac19/master/black-hole.gif" alt="black-hole" align="center" height="200px" width="100%"></img>
+<img src="https://raw.githubusercontent.com/elunac19/elunac19/master/black-hole.gif" alt="black-hole" align="center" width="100%"></img>
 <!--
 [![](https://raw.githubusercontent.com/elunac19/elunac19/master/black-hole.gif)](https://github.com/elunac19)
 -->
