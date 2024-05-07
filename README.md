@@ -4,5 +4,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/Erick_Luna_Carrada-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/erick-luna-carrada)
 [![Gmail Badge](https://img.shields.io/badge/Elunac19-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:elunac19@gmail.com) 
 
-https://raw.githubusercontent.com/elunac19/github-stats-transparent/output/generated/languages.svg
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/elunac19) <br>
 
